@@ -2,6 +2,7 @@ package qaInterviewprep;
 
 public class PrimeNumbersOneToHundred {
     public static void main(String[] args) {
+        System.out.println("Burayi Yeni  Ekledik");
         int i=0, num =0;
         String primeNumbers="";
 
